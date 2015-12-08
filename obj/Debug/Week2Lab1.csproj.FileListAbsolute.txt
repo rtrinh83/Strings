@@ -1,0 +1,15 @@
+E:\CS155-C#\Week2Lab1\Week2Lab1\bin\Debug\Week2Lab1.exe.config
+E:\CS155-C#\Week2Lab1\Week2Lab1\obj\Debug\Week2Lab1.csprojResolveAssemblyReference.cache
+E:\CS155-C#\Week2Lab1\Week2Lab1\bin\Debug\Week2Lab1.exe
+E:\CS155-C#\Week2Lab1\Week2Lab1\bin\Debug\Week2Lab1.pdb
+E:\CS155-C#\Week2Lab1\Week2Lab1\obj\Debug\Week2Lab1.exe
+E:\CS155-C#\Week2Lab1\Week2Lab1\obj\Debug\Week2Lab1.pdb
+J:\CS155-C#\Week2Lab1\Week2Lab1\bin\Debug\Week2Lab1.exe.config
+J:\CS155-C#\Week2Lab1\Week2Lab1\obj\Debug\Week2Lab1.exe
+J:\CS155-C#\Week2Lab1\Week2Lab1\obj\Debug\Week2Lab1.pdb
+F:\CS155-C#\Week2Lab1\Week2Lab1\bin\Debug\Week2Lab1.exe.config
+F:\CS155-C#\Week2Lab1\Week2Lab1\obj\Debug\Week2Lab1.exe
+F:\CS155-C#\Week2Lab1\Week2Lab1\obj\Debug\Week2Lab1.pdb
+F:\CS155-C#\Week2Lab1\Week2Lab1\bin\Debug\Week2Lab1.exe
+F:\CS155-C#\Week2Lab1\Week2Lab1\bin\Debug\Week2Lab1.pdb
+F:\CS155-C#\Week2Lab1\Week2Lab1\obj\Debug\Week2Lab1.csprojResolveAssemblyReference.cache
